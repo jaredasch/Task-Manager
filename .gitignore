@@ -96,4 +96,5 @@ Temporary Items
 
 # End of https://www.gitignore.io/api/macos,intellij
 
-/src/main/data
+/src/main/data/tasks
+/src/main/data/taskboards
